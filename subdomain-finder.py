@@ -2,7 +2,7 @@
 """
 SubFinder - Advanced subdomain discovery tool
 Author: [NoneR00tk1t]
-Version: 2.0
+Version: 1.0
 """
 
 import argparse
@@ -407,4 +407,5 @@ def main():
         sys.exit(1)
 
 if __name__ == "__main__":
+
     main()
